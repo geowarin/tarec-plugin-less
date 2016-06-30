@@ -1,6 +1,6 @@
 {
   "name": "tarec-plugin-less",
-  "version": "1.0.1-0",
+  "version": "1.0.0",
   "description": "Tarec plugin for less",
   "main": "lib/index.js",
   "author": "Geoffroy Warin",
