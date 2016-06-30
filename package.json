@@ -1,0 +1,27 @@
+{
+  "name": "tarec-plugin-less",
+  "version": "1.0.0",
+  "description": "Tarec plugin for less",
+  "main": "lib/index.js",
+  "author": "Geoffroy Warin",
+  "keywords": [
+    "tarec",
+    "awesome",
+    "react",
+    "cli",
+    "less"
+  ],
+  "author": "Geoffroy Warin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geowarin/tarec-plugin-less.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geowarin/tarec-plugin-less/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3"
+  }
+}
